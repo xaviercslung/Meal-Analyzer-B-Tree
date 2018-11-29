@@ -1,4 +1,4 @@
-# Fall 2018 Team Project: Food Query and Meal Analyzer1
+# Fall 2018 Team Project: Food Query and Meal Analyzer
 
 See Canvas assignment pages for details of the assignment.
 
